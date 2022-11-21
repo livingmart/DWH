@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon":"assets/img/others/1.jpg",
+        "count": 299,
+        "title": "Mask Supplier"
+    },
+    {
+        "id": 2,
+        "icon":"assets/img/others/2.jpg",
+        "count": 177,
+        "title": "Supplier in USA"
+    },
+    {
+        "id": 3,
+        "icon":"assets/img/others/3.jpg",
+        "count": 5,
+        "title": "Supplier in EU"
+    },
+    {
+        "id": 4,
+        "icon":"assets/img/others/4.jpg",
+        "count": 69,
+        "title": "Worldwide Supplier"
+    }
+]

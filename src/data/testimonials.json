@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Rosalina d. william",
+        "designation": "founder,yourwebsite ",
+        "image": "assets/img/testimonials/01.jpg",
+        "comment": "“Mask is essential and it should be very soft and comfortable stay ahead of the curve.”",
+        "rating": 4
+    },
+    {
+        "id": 2,
+        "name": "Rosalina d. william",
+        "designation": "founder,yourwebsite ",
+        "image": "assets/img/testimonials/02.jpg",
+        "comment": "“Mask is essential and it should be very soft and comfortable stay ahead of the curve.”",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "name": "Rosalina d. william",
+        "designation": "founder,yourwebsite ",
+        "image": "assets/img/testimonials/03.jpg",
+        "comment": "“Mask is essential and it should be very soft and comfortable stay ahead of the curve.”",
+        "rating": 4
+    },
+    {
+        "id": 4,
+        "name": "Rosalina d. william",
+        "designation": "founder,yourwebsite ",
+        "image": "assets/img/testimonials/01.jpg",
+        "comment": "“Mask is essential and it should be very soft and comfortable stay ahead of the curve.”",
+        "rating": 4
+    }
+]

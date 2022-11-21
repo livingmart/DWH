@@ -1,0 +1,41 @@
+[
+    {
+        "id":1,
+        "plantitle":"Silver Bundle",
+        "price":23,
+        "planpack":"Bundle",
+        "includes":[
+            "Small Roll",
+            "10 Masks",
+            "2 Roll",
+            "Light Pack",
+            "Lighter"
+        ]
+    },
+    {
+        "id":2,
+        "plantitle":"Gold Bundle",
+        "price":88,
+        "planpack":"Bundle",
+        "includes":[
+            "Medium Roll",
+            "5 Rolls",
+            "Medium Pack",
+            "Cutter",
+            "Lighter"
+        ]
+    },
+    {
+        "id":3,
+        "plantitle":"Diamond Bundle",
+        "price":139,
+        "planpack":"Bundle",
+        "includes":[
+            "Large Roll",
+            "10 Rolls",
+            "Large Pack",
+            "Lighter",
+            "Vallet"
+        ]
+    }
+]

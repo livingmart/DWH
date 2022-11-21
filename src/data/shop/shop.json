@@ -1,0 +1,1230 @@
+[
+	{
+		"id": 1,
+		"image": ["/assets/Pictures/solarpanels.png"],
+		"title": "Solar panels",
+		"shorttext": "Have available in our stock complete sets of all kinds of Solar panel and all installation accessories, both new and used",
+		"discount": "",
+		"price": 14.4,
+		"rating": 4,
+		"stock": true,
+		"category": [1, 2],
+		"tags": [1, 2, 3, 4],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 2,
+		"image": ["/assets/Pictures/microweave.png"],
+		"title": "Micro-waves",
+		"shorttext": "All kinds of microwaves, oven, heaters are availble for sale.",
+		"discount": "",
+		"price": 16.0,
+		"rating": 5,
+		"stock": true,
+		"category": [3, 4],
+		"tags": [5, 6, 7, 8],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 3,
+		"image": ["/assets/Pictures/pressingiron.png"],
+		"title": "Pressing Irons",
+		"shorttext": "We sell all types of pressing irons",
+		"discount": "",
+		"price": 32.4,
+		"rating": 4,
+		"stock": true,
+		"category": [5, 6],
+		"tags": [9, 10, 11, 12],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 4,
+		"image": ["/assets/Pictures/kindpng_235223.png"],
+		"title": "Set of Cusmetics",
+		"shorttext": "Sets of cusmetics of all types are available",
+		"discount": "",
+		"price": 18.0,
+		"rating": 4,
+		"stock": true,
+		"category": [1, 2],
+		"tags": [1, 2, 3, 4],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 5,
+		"image": ["/assets/Pictures/medical1.png"],
+		"title": "Medical machines & equipment ",
+		"shorttext": "Moder medical equipments of all types are available.",
+		"discount": "",
+		"price": 90.0,
+		"rating": 5,
+		"stock": true,
+		"category": [3, 4],
+		"tags": [5, 6, 7, 8],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 6,
+		"image": [
+			"assets/Pictures/carparts.png",
+			"assets/img/products/07.png",
+			"assets/img/products/08.png"
+		],
+		"title": "Car parts & accessories",
+		"shorttext": "Car accessories and parts available for sales.",
+		"discount": "",
+		"price": 14.4,
+		"rating": 5,
+		"stock": true,
+		"category": [5, 6],
+		"tags": [9, 10, 11, 12],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 7,
+		"image": [
+			"/assets/Pictures/kindpng_1379672.png",
+			"assets/img/products/08.png",
+			"assets/img/products/01.png"
+		],
+		"title": "Car tires",
+		"shorttext": "Car tyres of all sizes are cheaply availbe, and be shipped to your location.",
+		"discount": 13,
+		"price": 30.0,
+		"rating": 4,
+		"stock": true,
+		"category": [1, 2],
+		"tags": [1, 2, 3, 4],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 8,
+		"image": [
+			"/assets/Pictures/truck.png",
+			"assets/img/products/01.png",
+			"assets/img/products/02.png"
+		],
+		"title": "Truck and Logistics services",
+		"shorttext": "Helping on getting trucks(vehicles), 40 feet long. Transportation services of goods (shipping services).",
+		"discount": "",
+		"price": 50.4,
+		"rating": 5,
+		"stock": true,
+		"category": [3, 4],
+		"tags": [5, 6, 7, 8],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 9,
+		"image": [
+			"/assets/Pictures/sneakers.png",
+			"assets/img/products/01.png",
+			"assets/img/products/02.png"
+		],
+		"title": "Wears",
+		"shorttext": "Shoes (Trainers shoes, Sneakers and safety boots).",
+		"discount": "",
+		"price": 50.4,
+		"rating": 5,
+		"stock": true,
+		"category": [3, 4],
+		"tags": [5, 6, 7, 8],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 10,
+		"image": [
+			"/assets/Pictures/washing machine.png",
+			"assets/img/products/01.png",
+			"assets/img/products/02.png"
+		],
+		"title": "Wears",
+		"shorttext": "Wahing machine, cooking gas, oven, deep freezer, frigde, e.t.c.",
+		"discount": "",
+		"price": 50.4,
+		"rating": 5,
+		"stock": true,
+		"category": [3, 4],
+		"tags": [5, 6, 7, 8],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 11,
+		"image": [
+			"/assets/Pictures/ceiling fan.png",
+			"assets/img/products/01.png",
+			"assets/img/products/02.png"
+		],
+		"title": "Lab Equipments",
+		"shorttext": "Mordern laboratory equipments",
+		"discount": "",
+		"price": 50.4,
+		"rating": 5,
+		"stock": true,
+		"category": [3, 4],
+		"tags": [5, 6, 7, 8],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	},
+	{
+		"id": 12,
+		"image": [
+			"/assets/Pictures/Labequipememnt.jpg",
+			"assets/img/products/01.png",
+			"assets/img/products/02.png"
+		],
+		"title": "Wears",
+		"shorttext": "Shoes (Trainers shoes, Sneakers and safety boots).",
+		"discount": "",
+		"price": 50.4,
+		"rating": 5,
+		"stock": true,
+		"category": [3, 4],
+		"tags": [5, 6, 7, 8],
+		"star": false,
+		"longdescription": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+		"effects": [
+			{
+				"title": "Freshness",
+				"value": 64
+			},
+			{
+				"title": "No Stress",
+				"value": 15
+			},
+			{
+				"title": "Virus Free",
+				"value": 60
+			},
+			{
+				"title": "Protection",
+				"value": 50
+			}
+		],
+		"character": [
+			{
+				"icon": "marijuana",
+				"title": "Reusable"
+			},
+			{
+				"icon": "bong",
+				"title": "Sergical"
+			},
+			{
+				"icon": "shovel",
+				"title": "Soft"
+			}
+		],
+		"flavours": [
+			{
+				"icon": "grape",
+				"title": "Green"
+			},
+			{
+				"icon": "mango",
+				"title": "Blue"
+			},
+			{
+				"icon": "candy",
+				"title": "Red"
+			}
+		],
+		"specifications": [
+			{
+				"title": "Cotton",
+				"text": "22%"
+			},
+			{
+				"title": "CFM",
+				"text": "3%"
+			},
+			{
+				"title": "WEIGHT",
+				"text": "1 g, 1/2, 1/4, 1/8, joint, OZ"
+			}
+		],
+		"reviews": [
+			{
+				"id": 1,
+				"name": "Anna Wright",
+				"img": "assets/img/details/comment-1.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": [
+					{
+						"id": 11,
+						"name": "Jhon Kelian",
+						"img": "assets/img/details/comment-2.jpg",
+						"rating": 4,
+						"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"name": "Hilixer D. Dilimmah",
+				"img": "assets/img/details/comment-3.jpg",
+				"rating": 4,
+				"comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"replies": []
+			}
+		]
+	}
+]

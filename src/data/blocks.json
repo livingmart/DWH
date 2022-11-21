@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Mask Supplier",
+        "icon": "fas fa-award",
+        "value": 1400
+    },
+    {
+        "id": 2,
+        "title": "Country Served",
+        "icon": "fas fa-globe",
+        "value": 99
+    },
+    {
+        "id": 3,
+        "title": "Happy Clients",
+        "icon": "fas fa-briefcase",
+        "value": 5000
+    }
+]

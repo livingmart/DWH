@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "title":"Surgical Mask",
+        "image":[
+            "assets/img/products/cart-1.png"
+        ],
+        "price":109,
+        "qty":1
+    },
+    {
+        "id":2,
+        "title":"N95 Mask",
+        "image":[
+            "assets/img/products/cart-2.png"
+        ],
+        "price":44,
+        "qty":2
+    }
+]

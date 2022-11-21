@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Mask Is First Thing Now A Days",
+        "img": "assets/img/services/img-01.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Safe Yourself And Others",
+        "img": "assets/img/services/img-02.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Always Quality Works",
+        "img": "assets/img/services/img-03.jpg"
+    }
+]

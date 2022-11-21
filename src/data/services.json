@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-facemask",
+        "title": "Protects From Droplets",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-dentist-mask",
+        "title": "Antibacterial Fabric",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-medical-mask",
+        "title": "Comfortable Soft Masks Soft",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-medical-mask-2",
+        "title": "Adjustable Ear-Loops",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-medical-mask-1",
+        "title": "Certified Lab Tested",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "id": 6,
+        "icon": "flaticon-medical-mask-4",
+        "title": "Certified Lab Tested",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "id": 7,
+        "icon": "flaticon-medical-mask-5",
+        "title": "Water & Dirt Resistant",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "id": 8,
+        "icon": "flaticon-medical-mask-2",
+        "title": "Filter & Nose Bridge",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    }
+]
